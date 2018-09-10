@@ -12,9 +12,9 @@
     "fs": "0.0.2",
     "https": "^1.0.0",
     "marked": "^0.5.0",
-    "moment-timezone": "^0.5.14",
+    "moment-timezone": "^0.5.21",
     "pretty-data": "^0.40.0",
-    "showdown": "^1.8.5",
+    "showdown": "^1.8.6",
     "yaspeller": "^5.0.0"
   },
   "devDependencies": {
